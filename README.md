@@ -1,7 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm name is Skay! </h1>
 
+<h2>👨‍💻 SOC Analyst Projects:</h2>
+
+- Phishing Campaign Labs (LetsDefend)</b>
+  - [SOC140 - Phishing Mail Detected - Suspicious Task Schedule](https://github.com/joshmadakor1/LABURL)
+
+<h2>✔ Certiifications:</h2>
+
+- CompTIA Tech+</b>
+- CompTIA Security+</b> 
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/snusenu
 <!--
-**SkyNet-3/SkyNet-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
