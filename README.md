@@ -3,7 +3,7 @@
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 - Phishing Campaign Labs (LetsDefend)</b>
-  - [SOC140 - Phishing Mail Detected - Suspicious Task Schedule](https://github.com/joshmadakor1/LABURL)
+  - [SOC140 - Phishing Mail Detected - Suspicious Task Schedule](https://github.com/SkyNet-3/SOC140---Phishing-Mail-Detected---Suspicious-Task-Scheduler/tree/main)
 
 <h2>✔ Certiifications:</h2>
 
