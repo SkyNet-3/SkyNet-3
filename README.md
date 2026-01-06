@@ -5,7 +5,7 @@ l<h1>Hi, I'm name is Skay! </h1>
 - Phishing Campaign Labs (LetsDefend)</b>
   - [SOC140 - Phishing Mail Detected - Suspicious Task Schedule](https://github.com/SkyNet-3/SOC140---Phishing-Mail-Detected---Suspicious-Task-Scheduler/tree/main)
   - [SOC120 - Phishing Mail Detected - Internal to Internal](https://github.com/SkyNet-3/SOC120---Phishing-Mail-Detected---Internal-to-Internal/tree/main)
-  - [SOC114 - Malicious Attachment Detected - Phishing Alert](https://github.com/SkyNet-3/SOC120---Phishing-Mail-Detected---Internal-to-Internal/tree/main)
+  - [SOC114 - Malicious Attachment Detected - Phishing Alert](https://github.com/SkyNet-3/SOC114---Malicious-Attachment-Detected---Phishing-Alert/tree/main)
 <h2>✔ Certiifications:</h2>
 
 - CompTIA Tech+</b>
