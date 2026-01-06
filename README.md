@@ -1,4 +1,4 @@
-l<h1>Hi, I'm name is Skay! </h1>
+<h1>Hi, I'm name is Skay! </h1>
 
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
