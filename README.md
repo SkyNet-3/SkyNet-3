@@ -8,7 +8,7 @@
   - [SOC114 - Malicious Attachment Detected - Phishing Alert](https://github.com/SkyNet-3/SOC114---Malicious-Attachment-Detected---Phishing-Alert/tree/main)
  
 - Web Application Attacks Labs (LetsDefend)</b>
-  - [SOC165 - Possible SQL Injection Payload Detected](https://github.com/SkyNet-3/SOC140---Phishing-Mail-Detected---Suspicious-Task-Scheduler/tree/main)
+  - [SOC165 - Possible SQL Injection Payload Detected](https://github.com/SkyNet-3/SOC165---Possible-SQL-Injection-Payload-Detected/tree/main)
 <h2>✔ Certiifications:</h2>
 
 - CompTIA Tech+</b>
