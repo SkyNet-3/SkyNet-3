@@ -9,6 +9,7 @@
  
 - Web Application Attacks Labs (LetsDefend)</b>
   - [SOC165 - Possible SQL Injection Payload Detected](https://github.com/SkyNet-3/SOC165---Possible-SQL-Injection-Payload-Detected/tree/main)
+  - [SOC166 - Javascript Code Detected in Requested URL](https://github.com/SkyNet-3/SOC165---Possible-SQL-Injection-Payload-Detected/tree/main)
 <h2>✔ Certiifications:</h2>
 
 - CompTIA Tech+</b>
