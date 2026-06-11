@@ -13,7 +13,7 @@
   - [SOC167 - LS Command Detected in Requested URL](https://github.com/SkyNet-3/SOC167---LS-Command-Detected-in-Requested-URL/tree/main)
   - [SOC168 - Whoami Command Detected in Request Body](https://github.com/SkyNet-3/SOC168---Whoami-Command-Detected-in-Request-Body/tree/main)
   - [SOC169 - Possible IDOR Attack Detected](https://github.com/SkyNet-3/SOC169---Possible-IDOR-Attack-Detected/tree/main)
-  - [SOC170 - Passwd Found in Requested URL - Possible LFI Attack](https://github.com/SkyNet-3/SOC169---Possible-IDOR-Attack-Detected/tree/main)
+  - [SOC170 - Passwd Found in Requested URL - Possible LFI Attack](https://github.com/SkyNet-3/SOC170---Passwd-Found-in-Requested-URL---Possible-LFI-Attack/tree/main)
 <h2>✔ Certiifications:</h2>
 
 - CompTIA Tech+</b>
